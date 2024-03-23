@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.flex{
+display: flex;
+gap: 30px;
+}
+body{
+    background-color: aqua;
+}
+h2{
+    background-color: beige;
+}
+button{
+    width: 100%;
+    background-color:lightsalmon;
+    color: blue;
+    cursor:pointer;
+    
+}
+button:hover{
+    background-color: black;
+    color: antiquewhite;
+}
+.DAD{
+    text-align: center;
+}
